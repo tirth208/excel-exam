@@ -25,8 +25,7 @@ The project is organized into several key datasets exported as CSV files:
 
 ## 📷Excel Preview
 
-dashboard Preview(Dashboard.png)
-
+dashboard Preview(https://github.com/tirth208/excel-exam/blob/afe28588252d9a9f51cf10b15acb8cf2b0e74614/Dashboard.png)
 ## Key Features
 * **📈 Historical Trend Analysis:** Monitor opening and closing price fluctuations over a multi-year period.
 * **💹 Automated Profit/Loss Tracking:** Built-in spreadsheet logic to dynamically categorize daily market performance.

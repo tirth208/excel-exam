@@ -22,10 +22,7 @@ The project is organized into several key datasets exported as CSV files:
 
 * **`Sheet3.csv` (Dashboard Totals):**
   Houses high-level summary metrics and grand totals (e.g., total trading volume of 298,169,517). These figures power the top-line KPI (Key Performance Indicator) cards on the main visual dashboard.
-
-## 📷Excel Preview
-
-dashboard Preview(https://github.com/tirth208/excel-exam/blob/afe28588252d9a9f51cf10b15acb8cf2b0e74614/Dashboard.png)
+  
 ## Key Features
 * **📈 Historical Trend Analysis:** Monitor opening and closing price fluctuations over a multi-year period.
 * **💹 Automated Profit/Loss Tracking:** Built-in spreadsheet logic to dynamically categorize daily market performance.

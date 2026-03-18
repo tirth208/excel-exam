@@ -25,7 +25,7 @@ The project is organized into several key datasets exported as CSV files:
 
 ## 📷Excel Preview.
 
-Excel Preview()
+Excel Preview(DashboardPhoto.png.png)
 
 ## Key Features
 * **📈 Historical Trend Analysis:** Monitor opening and closing price fluctuations over a multi-year period.

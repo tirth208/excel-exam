@@ -27,7 +27,7 @@ This project contains an interactive Excel dashboard designed to analyze and vis
 
 ## Preview 
 
-(Dashboard.png)
+https://github.com/tirth208/excel-exam/blob/1029c283ea5ac1172326b6354c721e47c44cbb55/Dashboard.png
 
 
 

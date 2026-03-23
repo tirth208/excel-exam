@@ -24,7 +24,7 @@ The project is organized into several key datasets exported as CSV files:
   Houses high-level summary metrics and grand totals (e.g., total trading volume of 298,169,517). These figures power the top-line KPI (Key Performance Indicator) cards on the main visual dashboard.
 
 ## Dashboard Preview
-Dashboard Preview()
+Dashboard Preview(Dashboard.png)
   
 ## Key Features
 * **📈 Historical Trend Analysis:** Monitor opening and closing price fluctuations over a multi-year period.

@@ -27,6 +27,8 @@ This project contains an interactive Excel dashboard designed to analyze and vis
 
 ## Preview 
 
+(Dashboard.png)
+
 
 
 ## 🎯 Purpose
